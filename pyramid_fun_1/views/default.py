@@ -3,9 +3,9 @@ from pyramid.view import view_config
 
 def get_test_packages():
     return [
-        {'name': 'robotframework', 'version': '5.0.0'},
-        {'name': 'requests', 'version': '1.2.3'},
-        {'name': 'playwright', 'version': '1.22'},
+        {"name": "robotframework", "version": "5.0.0"},
+        {"name": "requests", "version": "1.2.3"},
+        {"name": "playwright", "version": "1.22"},
     ]
 
 
