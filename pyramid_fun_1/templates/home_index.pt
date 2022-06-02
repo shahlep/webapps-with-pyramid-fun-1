@@ -2,9 +2,10 @@
     <div metal:fill-slot="content">
 
         <div class="content">
-           <h>Some Packages ...</h>
-            <div>
-                TODO:Put packages here ....${project}
+           <h1>Some Packages ...</h1>
+            <div class="package" tal:repeat="p project">
+                <span class="title">${p.name}</span>
+                <span class="version">${p.version}</span>
             </div>
         </div>
 
