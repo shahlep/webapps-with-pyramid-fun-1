@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="pyramid web application">
-    <meta name="author" content="Pylons Project">
+    <meta name="Shah Rahman" content="Pyramid fun">
     <link rel="shortcut icon" href="${request.static_url('pyramid_fun_1:static/pyramid-16x16.png')}">
 
     <title>Cookiecutter Starter project for the Pyramid Web Framework</title>
@@ -38,7 +38,7 @@
         <div class="row">
           <div class="links">
             <ul>
-              <li><i class="glyphicon glyphicon-cog icon-muted"></i><a href="https://github.com/Pylons/pyramid">Github Project</a></li>
+              <li><i class="glyphicon glyphicon-cog icon-muted"></i><a href="https://github.com/shahlep/webapps-with-pyramid-fun-1">Github Project</a></li>
               <li><i class="glyphicon glyphicon-globe icon-muted"></i><a href="https://webchat.freenode.net/?channels=pyramid">IRC Channel</a></li>
               <li><i class="glyphicon glyphicon-home icon-muted"></i><a href="https://pylonsproject.org">Pylons Project</a></li>
             </ul>
@@ -46,7 +46,7 @@
         </div>
         <div class="row">
           <div class="copyright">
-            Copyright &copy; Pylons Project
+            Copyright &copy; Shah
           </div>
         </div>
       </div>
