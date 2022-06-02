@@ -10,5 +10,10 @@ def get_test_packages():
 
 
 @view_config(route_name="home", renderer="pyramid_fun_1:templates/home_index.pt")
-def home_index(request):
+def home_index(_):
     return {"project": get_test_packages()}
+
+
+@view_config(route_name="about", renderer="pyramid_fun_1:templates/home_about.pt")
+def home_about(_):
+    return {}
