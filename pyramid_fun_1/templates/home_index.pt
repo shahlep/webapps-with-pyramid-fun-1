@@ -4,7 +4,7 @@
         <div class="content">
            <h>Some Packages ...</h>
             <div>
-                TODO:Put packages here ....
+                TODO:Put packages here ....${project}
             </div>
         </div>
 
