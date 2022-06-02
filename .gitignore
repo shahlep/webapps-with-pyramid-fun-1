@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+venv
+tests
+.idea
+__pycache__
+.coveragerc
+CHANGES.txt
+README.txt
+

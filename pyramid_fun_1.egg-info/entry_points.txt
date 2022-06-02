@@ -1,0 +1,2 @@
+[paste.app_factory]
+main = pyramid_fun_1:main
